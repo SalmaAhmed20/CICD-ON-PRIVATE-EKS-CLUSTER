@@ -1,0 +1,3 @@
+Terraformfiles/.terraform
+Terraformfiles/.terraform.lock.hcl
+Terraformfiles/tf-key-pair.pem
