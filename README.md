@@ -38,6 +38,7 @@
 
 ## Jenkins
 3- After The Jenkins pod is ready and running
+--
 - ssh to bastion
 ```bash
   kubectl get all -n jenkins  
@@ -60,7 +61,7 @@ go to external ip of service and setup your jenkins
  - Run it 
  ![Screenshot from 2023-05-31 06-07-38](https://github.com/SalmaAhmed20/CICD-ON-PRIVATE-EKS-CLUSTER/assets/64385957/cf597e0e-c8d0-40c5-a94f-d0fe78585ee1)
 
+![Screenshot from 2023-05-31 05-33-29](https://github.com/SalmaAhmed20/CICD-ON-PRIVATE-EKS-CLUSTER/assets/64385957/d7cda26b-09db-4a88-b33c-0b44cdc03d22)
+![Screenshot from 2023-05-31 05-33-38](https://github.com/SalmaAhmed20/CICD-ON-PRIVATE-EKS-CLUSTER/assets/64385957/865af03e-a97f-4197-bd29-da9cc9447bb9)
+![Screenshot from 2023-05-31 19-33-44](https://github.com/SalmaAhmed20/CICD-ON-PRIVATE-EKS-CLUSTER/assets/64385957/8ff5510f-6a14-429b-87cf-4a524b6eda6b)
 
- 
- 
- - 
